@@ -1,31 +1,29 @@
 category,subcategoryId,vendorName,phone
-Water,borewell,Dhanashree Pumps,9579676716 / 9850124612
-Water,solar,Racold Solar / Rangaraj Kulkarni,tel:9822883752
-Maintenance,service,Win Square (U-PVC),tel:9158410808
-Water,drinking,No vendor information available.,tel:0000000000
-Water,tank,No vendor information available.,tel:0000000000
-Water,underground,"UGWT Pump and Sensor, Mansi Pump Systems (Kiran)",8169615482 / 7020318778
 Electrical,generator,Cooper (Pawan),tel:9604542929
-Electrical,lighting,No vendor information available.,tel:0000000000
-Electrical,solar,Parrikrama Solutions Pvt Ltd,tel:9822647313
-Security,cctv,Video Door Phone & CCTV / Mr. Kulkarni,tel:9850848242
-Security,guard,Watchman,"0000000000 (day), 0000000000 (night)"
-Security,door,No vendor information available.,tel:0000000000
-Maintenance,clean,No vendor information available.,tel:0000000000
-Maintenance,pest,No vendor information available.,tel:0000000000
-Maintenance,parking,Klaus / Navnath,18003097171 / 8888212346
-Emergency,lift,Kone Elevators,18001081234 / 18004254254 / 7499558512
-Emergency,fire,No vendor information available.,tel:0000000000
-Internal Maintenance,common dish,TataPlay / Sagar Choudhari,tel: 8999879267
-Internal Maintenance,tile,RP Enterprises / Rakesh Pawar,tel: 9011824149
-Internal Maintenance,plumbing,"Jaquar (Bathroom fittings viz. tap, shower, diverter)",tel:18001216808
-Internal Maintenance,plumbing,Gabrit (Flush Tank),tel:18001024323
-Internal Maintenance,electrician,Electrician Ramsingh,tel: 9922130138
-Emergency,electricity,MSEDCL,tel:18002123435
-Internal Maintenance,painting,H A Enterprises / Parag Wadekar,tel:9689895633
+Electrical,lighting,Electrician Ramsingh,tel: 9922130138
 Electrical,meterpanel,Genius / Adesh Karande,tel:9119408619
-Internal Maintenance,window,U-PVC Window-Win Square / Dushyan,tel:9158410808
+Electrical,solar,Parrikrama Solutions Pvt Ltd,tel:9822647313
+Emergency,electricity,MSEDCL,tel:18002123435
+Emergency,fire,No vendor information available.,tel:0000000000
+Emergency,lift,Kone Elevators,18001081234 / 18004254254 / 7499558512
+Internal Maintenance,common dish,TataPlay / Sagar Choudhari,tel: 8999879267
 Internal Maintenance,frenchdoor,Navanath,tel:9096141512
 Internal Maintenance,mngl,MNGL / Vishnu Kolse,18002662696 / 7020748151
-Internal Maintenance,plumbing,Navnath Plumber,tel:9822458677
-
+Internal Maintenance,painting,H A Enterprises / Parag Wadekar,tel:9689895633
+Internal Maintenance,plumbing,"Jaquar (Bathroom fittings viz. tap, shower, diverter)",tel:18001216808
+Internal Maintenance,plumbing,Gabrit (Flush Tank),tel:18001024323
+Internal Maintenance,plumbing,Navnath,tel:9822458677
+Internal Maintenance,tile,RP Enterprises / Rakesh Pawar,tel: 9011824149
+Internal Maintenance,window,U-PVC Window-Win Square / Dushyan,tel:9158410808
+Maintenance,clean,Nitin / Shankar,"7020798703 (Shankar), 0000000000 (Nitin)"
+Maintenance,parking,Klaus / Navnath,18003097171 / 8888212346
+Maintenance,pest,No vendor information available.,tel:0000000000
+Maintenance,service,Win Square (U-PVC),tel:9158410808
+Security,cctv,Video Door Phone & CCTV / Mr. Kulkarni,tel:9850848242
+Security,door,Video Door Phone & CCTV / Mr. Kulkarni,tel:9850848242
+Security,guard,Watchman,"0000000000 (day), 0000000000 (night)"
+Water,borewell,Dhanashree Pumps,9579676716 / 9850124612
+Water,drinking,No vendor information available.,tel:0000000000
+Water,solar,Racold Solar / Rangaraj Kulkarni,tel:9822883752
+Water,tank,No vendor information available.,tel:0000000000
+Water,underground,Mansi Pump Systems (Kiran),8169615482 / 7020318778
