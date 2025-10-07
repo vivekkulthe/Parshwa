@@ -1,8 +1,8 @@
 category,subcategoryId,subcategoryName,tag
-Water/पाणी,borewell,Borewell / Pump,borewell
-Water/पाणी,drinking,Drinking / Tap water,drinking
-Water/पाणी,tank,Tank cleaning,tank
-Water/पाणी,underground,Underground pump / sensor,pump
+Water,borewell,Borewell / Pump,borewell
+Water,drinking,Drinking / Tap water,drinking
+Water,tank,Tank cleaning,tank
+Water,underground,Underground pump / sensor,pump
 Electrical,generator,Generator / Backup,generator
 Electrical,lighting,Internal lighting / Passage,lighting
 Electrical,solar,Solar panels / Solar lights,solar
@@ -16,4 +16,3 @@ Maintenance,parking,Parking / Mechanical parking,parking
 Maintenance,service,Service companies (fittings/windows),service
 Emergency,lift,Lift stuck / not moving,lift
 Emergency,fire,Fire equipment / Alarm,fire
-
