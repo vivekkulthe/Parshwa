@@ -16,3 +16,14 @@ Maintenance,parking,Parking / Mechanical parking,parking
 Maintenance,service,Service companies (fittings/windows),service
 Emergency,lift,Lift stuck / not moving,lift
 Emergency,fire,Fire equipment / Alarm,fire
+Internal Maintenance,electrician,Internal Electric Work,electrician
+Electrical,meterpanel,Meter Panel,meterpanel
+Emergency,electricity,Electricity Board (MSEDCL),electricity
+Internal Maintenance,common dish,Common Satellite Dish,common dish
+Internal Maintenance,frenchdoor,French Door,frenchdoor
+Internal Maintenance,mngl,MNGL Gas Pipeline,mngl
+Internal Maintenance,painting,Painting,painting
+Internal Maintenance,plumbing,Internal Plumbing Work,plumbing
+Internal Maintenance,tile,Internal Tiles,tile
+Internal Maintenance,window,Internal U-PVC Windows,window
+Internal Maintenance,plumbing,CP Fittings and Flush Tank,plumbing
