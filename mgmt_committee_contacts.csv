@@ -1,0 +1,16 @@
+problem,category,subcategoryId,primary,primaryPhone,secondary,secondaryPhone,tags,,
+Borewell / Pump,Water,borewell,Shri Shah,tel:91584XXXX,Shri Joshi,tel:81696XXXX,water,borewell,pump
+Drinking / Normal Water,Water,drinking,Smt. Pande,tel:70203XXXX,Shri Nargund,tel:91584XXXX,water,drinking,tap
+Tank Cleaning,Water,tank,Shri Shrikhande,tel:98508XXXX,Shri Joshi,tel:81696XXXX,water,tank,cleaning
+Underground Pump / Sensor,Water,underground,Shri Shah,tel:91584XXXX,Shri Joshi,tel:81696XXXX,water,pump,sensor
+Generator / Diesel Backup,Electrical,generator,Shri Joshi,tel:81696XXXX,Shri Misar,tel:95796XXXX,electrical,generator,
+Internal Lighting / Passage Lights,Electrical,lighting,Shri Joshi,tel:81696XXXX,Shri Shah,tel:91584XXXX,electrical,lighting,
+Solar (Lights / Panels),Electrical,solar,Shri Misar,tel:95796XXXX,Shri Joshi,tel:81696XXXX,electrical,solar,
+Solar Water (Hot Water),Electrical,solarwater,Smt. Nargund,tel:98508XXXX,Smt. Pande,tel:70203XXXX,electrical,solar,water
+Lift (Stuck / Not Moving),Emergency,lift,Shri Shah,tel:91584XXXX,Smt. Nargund,tel:98508XXXX,emergency,lift,
+Fire Equipment / Alarm,Emergency,fire,Shri Gondhalekar,tel:98228XXXX,Shri Shah,tel:91584XXXX,emergency,fire,
+CCTV / Security Door,Security,cctv,Shri Nargund,tel:98508XXXX,Shri Pande,tel:70203XXXX,security,cctv,door
+Security Guard / Gate,Security,guard,Shri Shah,tel:91584XXXX,Shri Gondhalekar,tel:98228XXXX,security,guard,gate
+Cleanliness / Housekeeping,Maintenance,clean,Smt. Pande,tel:70203XXXX,Shri Nargund,tel:91584XXXX,maintenance,clean,housekeeping
+Pest Control,Maintenance,pest,Shri Shrikhande,tel:98508XXXX,Shri Shah,tel:91584XXXX,maintenance,pest,
+Parking / Mechanical Parking,Maintenance,parking,Shri Shah,tel:91584XXXX,Shri Gondhalekar,tel:98228XXXX,maintenance,parking,mechanical

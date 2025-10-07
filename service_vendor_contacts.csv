@@ -1,0 +1,18 @@
+category,subcategoryId,vendorName,phone
+Water,borewell,Dhanashree Pumps,tel:9579676716
+Electrical,solar,Ragold Solar,tel:9822883752
+Maintenance,service,Win Square (U-PVC),tel:9158410808
+Water,drinking,No vendor information available for this selection.,tel:0000000000
+Water,tank,No vendor information available for this selection.,tel:0000000000
+Water,underground,No vendor information available for this selection.,tel:0000000000
+Electrical,generator,No vendor information available for this selection.,tel:0000000000
+Electrical,lighting,No vendor information available for this selection.,tel:0000000000
+Electrical,solarwater,No vendor information available for this selection.,tel:0000000000
+Security,cctv,No vendor information available for this selection.,tel:0000000000
+Security,guard,Watchman,"0000000000 (day), 0000000000 (night)"
+Security,door,No vendor information available for this selection.,tel:0000000000
+Maintenance,clean,No vendor information available for this selection.,tel:0000000000
+Maintenance,pest,No vendor information available for this selection.,tel:0000000000
+Maintenance,parking,No vendor information available for this selection.,tel:0000000000
+Emergency,lift,No vendor information available for this selection.,tel:0000000000
+Emergency,fire,No vendor information available for this selection.,tel:0000000000
