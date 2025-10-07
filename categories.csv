@@ -16,7 +16,6 @@ Maintenance,parking,Parking / Mechanical parking,parking
 Maintenance,service,Service companies (fittings/windows),service
 Emergency,lift,Lift stuck / not moving,lift
 Emergency,fire,Fire equipment / Alarm,fire
-Internal Maintenance,electrician,Internal Electric Work,electrician
 Electrical,meterpanel,Meter Panel,meterpanel
 Emergency,electricity,Electricity Board (MSEDCL),electricity
 Internal Maintenance,common dish,Common Satellite Dish,common dish
