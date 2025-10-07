@@ -1,8 +1,8 @@
 category,subcategoryId,subcategoryName,tag
-Water,borewell,Borewell / Pump,borewell
-Water,drinking,Drinking / Tap water,drinking
-Water,tank,Tank cleaning,tank
-Water,underground,Underground pump / sensor,pump
+Watery,borewell,Borewell / Pump,borewell
+Watery,drinking,Drinking / Tap water,drinking
+Watery,tank,Tank cleaning,tank
+Watery,underground,Underground pump / sensor,pump
 Electrical,generator,Generator / Backup,generator
 Electrical,lighting,Internal lighting / Passage,lighting
 Electrical,solar,Solar panels / Solar lights,solar
