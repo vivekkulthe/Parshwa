@@ -13,7 +13,6 @@ Security,door,Entry door / Access,door
 Maintenance,clean,Cleanliness / Housekeeping,cleanliness
 Maintenance,pest,Pest control,pest
 Maintenance,parking,Parking / Mechanical parking,parking
-Maintenance,service,Service companies (fittings/windows),service
 Emergency,lift,Lift stuck / not moving,lift
 Emergency,fire,Fire equipment / Alarm,fire
 Electrical,meterpanel,Meter Panel,meterpanel
