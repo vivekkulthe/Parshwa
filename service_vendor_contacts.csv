@@ -4,7 +4,7 @@ Electrical,lighting,Electrician Ramsingh,tel:+919922130138
 Electrical,meterpanel,Genius / Adesh Karande,tel:+919119408619
 Electrical,solar,Parrikrama Solutions Pvt Ltd,tel:+919822647313
 Emergency,electricity,Electricity Board (MSEDCL),tel:18002123435
-Emergency,fire,No vendor information available.,tel:+910000000000
+Emergency,fire,No vendor information available.,tel:
 Emergency,lift,Kone Elevators,tel:18001081234
 Emergency,lift,Kone Elevators (ALT),tel:18004254254
 Emergency,lift,Kone (Ajinath Somase),tel:+917499558512
@@ -22,18 +22,19 @@ Maintenance,clean,Shankar,tel:+917020798703
 Maintenance,clean,Nitin,tel:+910000000000
 Maintenance,parking,Klaus,tel:18003097171
 Maintenance,parking,Navnath,tel:+918888212346
-Maintenance,pest,No vendor information available.,tel:+910000000000
+Maintenance,pest,No vendor information available.,tel:
 Security,cctv,Video Door Phone & CCTV / Mr. Kulkarni,tel:+919850848242
 Security,door,Video Door Phone & CCTV / Mr. Kulkarni,tel:+919850848242
 Security,guard,Day Watchman,tel:+910000000000
 Security,guard,Night Watchman,tel:+910000000000
 Water,borewell,Dhanashree Pumps,tel:+919579676716
 Water,borewell,Dhanashree Pumps (ALT),tel:+919850124612
-Water,drinking,No vendor information available.,tel:+910000000000
+Water,drinking,No vendor information available.,tel:
 Water,solar,Racold Solar / Rangaraj Kulkarni,tel:+919822883752
-Water,tank,No vendor information available.,tel:+910000000000
+Water,tank,No vendor information available.,tel:
 Water,underground,Mansi Pump Systems,tel:+918169615482
 Water,underground,Mansi Pump Systems (Kiran),tel:+917020318778
+
 
 
 
