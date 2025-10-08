@@ -20,8 +20,9 @@ Emergency,electricity,Electricity Board (MSEDCL),electricity
 Domestic,common dish,Common Satellite Dish,common dish
 Domestic,frenchdoor,French Door,frenchdoor
 Domestic,mngl,MNGL Gas Pipeline,mngl
-Domestic,painting,Painting,painting
+Maintenance,painting,Socy. Painting,painting
 Domestic,plumbing,Internal Plumbing Work,plumbing
 Domestic,tile,Internal Tiles,tile
 Domestic,window,Internal U-PVC Windows,window
 Domestic,plumbing,CP Fittings and Flush Tank,plumbing
+
