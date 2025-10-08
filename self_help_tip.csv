@@ -1,5 +1,6 @@
 category,subcategoryId,tip
-Water,borewell,"If borewell water pressure is low or supply is interrupted, first confirm if other flats are affected. Contact the respective vendor (refer to service vendor contact information). If the issue persists, inform the managing committee (refer to managing committee contact information)."
+Water,borewell,"If borewell water pressure is low or supply is interrupted, first confirm if other flats are affected. 
+Contact the respective vendor (refer to service vendor contact information). If the issue persists, inform the managing committee (refer to managing committee contact information)."
 Water,drinking,"If drinking water is not available or has low pressure, check if the issue is inside your flat or in the common line. If common, contact the vendor responsible (refer to service vendor contact information). Inform the managing committee if unresolved."
 Water,tank,"If you see overflow or leakage from the overhead tank, please observe if it continues. Contact the water system vendor (refer to service vendor contact information). If unresolved, inform the managing committee."
 Water,underground,"If the underground water pump or sensor is not working, contact the vendor (refer to service vendor contact information). If unresolved, inform the managing committee."
@@ -25,4 +26,3 @@ Domestic,painting,"For issues related to wall paint or dampness, contact the pai
 Domestic,plumbing,"If plumbing leaks or blockages occur, check if it’s within your flat. For common area issues, contact the plumbing vendor (refer to service vendor contact information). If unresolved, inform the managing committee."
 Domestic,tile,"If tiles in common areas are damaged, report to the managing committee. For inside-flat tiles, hire a personal contractor."
 Domestic,window,"For U-PVC window issues such as alignment or locking problems, contact the window vendor (refer to service vendor contact information). If unresolved, inform the managing committee."
-
