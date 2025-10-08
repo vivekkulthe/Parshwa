@@ -5,26 +5,34 @@ Electrical,meterpanel,Genius / Adesh Karande,tel:9119408619
 Electrical,solar,Parrikrama Solutions Pvt Ltd,tel:9822647313
 Emergency,electricity,Electricity Board (MSEDCL),tel:18002123435
 Emergency,fire,No vendor information available.,tel:0000000000
-Emergency,lift,Kone Elevators,18001081234 / 18004254254 / 7499558512
+Emergency,lift,Kone Elevators,tel:18001081234
+Emergency,lift,Kone Elevators (ALT),tel:18004254254
+Emergency,lift,Kone (Ajinath Somase),tel:7499558512
 Domestic,common dish,TataPlay / Sagar Choudhari,tel: 8999879267
 Domestic,frenchdoor,Navanath,tel:9096141512
-Domestic,mngl,MNGL / Vishnu Kolse,18002662696 / 7020748151
+Domestic,mngl,MNGL Helpline,tel:18002662696
+Domestic,mngl,Vishnu Kolse (MNGL),tel:7020748151
 Domestic,painting,H A Enterprises / Parag Wadekar,tel:9689895633
 Domestic,plumbing,"Jaquar (Bathroom fittings viz. tap, shower, diverter)",tel:18001216808
 Domestic,plumbing,Gabrit (Flush Tank),tel:18001024323
 Domestic,plumbing,Navnath,tel:9822458677
 Domestic,tile,RP Enterprises / Rakesh Pawar,tel: 9011824149
 Domestic,window,U-PVC Window-Win Square / Dushyan,tel:9158410808
-Maintenance,clean,Shankar,"7020798703"
-Maintenance,clean,Nitin,"0000000000"
-Maintenance,parking,Klaus / Navnath,18003097171 / 8888212346
+Maintenance,clean,Shankar,tel:7020798703
+Maintenance,clean,Nitin,tel:0000000000
+Maintenance,parking,Klaus,tel:18003097171
+Maintenance,parking,Navnath,tel:8888212346
 Maintenance,pest,No vendor information available.,tel:0000000000
 Security,cctv,Video Door Phone & CCTV / Mr. Kulkarni,tel:9850848242
 Security,door,Video Door Phone & CCTV / Mr. Kulkarni,tel:9850848242
-Security,guard,Watchman,"0000000000 (day), 0000000000 (night)"
-Water,borewell,Dhanashree Pumps,9579676716 / 9850124612
+Security,guard,Day Watchman,tel:0000000000
+Security,guard,Night Watchman,tel:0000000000
+Water,borewell,Dhanashree Pumps,tel:9579676716
+Water,borewell,Dhanashree Pumps (ALT),tel:9850124612
 Water,drinking,No vendor information available.,tel:0000000000
 Water,solar,Racold Solar / Rangaraj Kulkarni,tel:9822883752
 Water,tank,No vendor information available.,tel:0000000000
-Water,underground,Mansi Pump Systems (Kiran),8169615482 / 7020318778
+Water,underground,Mansi Pump Systems,tel:8169615482
+Water,underground,Mansi Pump Systems (Kiran),tel:7020318778
+
 
