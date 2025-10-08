@@ -15,7 +15,8 @@ Domestic,plumbing,Gabrit (Flush Tank),tel:18001024323
 Domestic,plumbing,Navnath,tel:9822458677
 Domestic,tile,RP Enterprises / Rakesh Pawar,tel: 9011824149
 Domestic,window,U-PVC Window-Win Square / Dushyan,tel:9158410808
-Maintenance,clean,Nitin / Shankar,"7020798703 (Shankar), 0000000000 (Nitin)"
+Maintenance,clean,Shankar,"7020798703"
+Maintenance,clean,Nitin,"0000000000"
 Maintenance,parking,Klaus / Navnath,18003097171 / 8888212346
 Maintenance,pest,No vendor information available.,tel:0000000000
 Security,cctv,Video Door Phone & CCTV / Mr. Kulkarni,tel:9850848242
@@ -26,3 +27,4 @@ Water,drinking,No vendor information available.,tel:0000000000
 Water,solar,Racold Solar / Rangaraj Kulkarni,tel:9822883752
 Water,tank,No vendor information available.,tel:0000000000
 Water,underground,Mansi Pump Systems (Kiran),8169615482 / 7020318778
+
