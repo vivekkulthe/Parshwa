@@ -1,5 +1,5 @@
 category,subcategoryId,vendorName,phone
-Electrical,generator,Cooper (Pawan),tel:9604542929
+Electrical,generator,Cooper (Pawan),tel:+919604542929
 Electrical,lighting,Electrician Ramsingh,tel: 9922130138
 Electrical,meterpanel,Genius / Adesh Karande,tel:9119408619
 Electrical,solar,Parrikrama Solutions Pvt Ltd,tel:9822647313
@@ -34,5 +34,6 @@ Water,solar,Racold Solar / Rangaraj Kulkarni,tel:9822883752
 Water,tank,No vendor information available.,tel:0000000000
 Water,underground,Mansi Pump Systems,tel:8169615482
 Water,underground,Mansi Pump Systems (Kiran),tel:7020318778
+
 
 
