@@ -1,19 +1,20 @@
 problem,category,subcategoryId,primary,primaryPhone,secondary,secondaryPhone,tags,,
-Borewell / Pump,Water,borewell,Shri. Shah,tel:+9191584XXXX,Shri. Joshi,tel:+9181696XXXX,water,borewell,pump
-Drinking / Normal Water,Water,drinking,Smt. Pande,tel:+9170203XXXX,Shri. Nargund,tel:+9191584XXXX,water,drinking,tap
-Tank Cleaning,Water,tank,Shri. Shrikhande,tel:+9198508XXXX,Shri. Joshi,tel:+9181696XXXX,water,tank,
-Underground Pump / Sensor,Water,underground,Shri. Shah,tel:+9191584XXXX,Shri. Joshi,tel:+9181696XXXX,water,pump,sensor
-Generator / Diesel Backup,Electrical,generator,Shri. Joshi,tel:+9181696XXXX,Shri. Misar,tel:+9195796XXXX,electrical,generator,
-Internal Lighting / Passage Lights,Electrical,lighting,Shri. Joshi,tel:+9181696XXXX,Shri. Shah,tel:+9191584XXXX,electrical,lighting,
-Solar (Lights / Panels),Electrical,solar,Shri. Misar,tel:+9195796XXXX,Shri. Joshi,tel:+9181696XXXX,electrical,solar,
-Solar Water (Hot Water),Electrical,solarwater,Smt. Nargund,tel:+9198508XXXX,Smt. Pande,tel:+9170203XXXX,electrical,solar,water
-Lift (Stuck / Not Moving),Emergency,lift,Shri. Shah,tel:+9191584XXXX,Smt. Nargund,tel:+9198508XXXX,emergency,lift,
-Fire Equipment / Alarm,Emergency,fire,Shri. Gondhalekar,tel:+9198228XXXX,Shri. Shah,tel:+9191584XXXX,emergency,fire,
-CCTV / Security Door,Security,cctv,Shri. Nargund,tel:+9198508XXXX,Shri. Pande,tel:+9170203XXXX,security,cctv,door
-Security Guard / Gate,Security,guard,Shri. Shah,tel:+9191584XXXX,Shri. Gondhalekar,tel:+9198228XXXX,security,guard,gate
-Cleanliness / Housekeeping,Maintenance,clean,Smt. Pande,tel:+9170203XXXX,Smt. Nargund,tel:+9191584XXXX,maintenance,housekeeping,
-Pest Control,Maintenance,pest,Shri. Shrikhande,tel:+9198508XXXX,Shri. Shah,tel:+9191584XXXX,maintenance,pest,
-Parking / Mechanical Parking,Maintenance,parking,Shri. Shah,tel:+9191584XXXX,Shri. Gondhalekar,tel:+9198228XXXX,maintenance,parking,mechanical
+Borewell / Pump,Water,borewell,Shri. Shah,704,Shri. Joshi,601,water,borewell,pump
+Drinking / Normal Water,Water,drinking,Smt. Pande,603,Shri. Nargund,403,water,drinking,tap
+Tank Cleaning,Water,tank,Shri. Shrikhande,101,Shri. Joshi,601,water,tank,
+Underground Pump / Sensor,Water,underground,Shri. Shah,704,Shri. Joshi,601,water,pump,sensor
+Generator / Diesel Backup,Electrical,generator,Shri. Joshi,601,Shri. Misar,604,electrical,generator,
+Internal Lighting / Passage Lights,Electrical,lighting,Shri. Joshi,601,Shri. Shah,704,electrical,lighting,
+Solar (Lights / Panels),Electrical,solar,Shri. Misar,604,Shri. Joshi,601,electrical,solar,
+Solar Water (Hot Water),Electrical,solarwater,Smt. Nargund,403,Smt. Pande,603,electrical,solar,water
+Lift (Stuck / Not Moving),Emergency,lift,Shri. Shah,704,Smt. Nargund,403,emergency,lift,
+Fire Equipment / Alarm,Emergency,fire,Shri. Gondhalekar,501,Shri. Shah,704,emergency,fire,
+CCTV / Security Door,Security,cctv,Shri. Nargund,403,Shri. Pande,603,security,cctv,door
+Security Guard / Gate,Security,guard,Shri. Shah,704,Shri. Gondhalekar,501,security,guard,gate
+Cleanliness / Housekeeping,Maintenance,clean,Smt. Pande,601,Smt. Nargund,403,maintenance,housekeeping,
+Pest Control,Maintenance,pest,Shri. Shrikhande,101,Shri. Shah,704,maintenance,pest,
+Parking / Mechanical Parking,Maintenance,parking,Shri. Shah,704,Shri. Gondhalekar,501,maintenance,parking,mechanical
 ,Emergency,electricity,Secretary,,Chairman,,emergency,electricity,
 ,Maintenance,painting,Secretary,,Chairman,,maintenance,painting,
+
 
